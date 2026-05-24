@@ -1,5 +1,4 @@
 # 🇧🇩 Multi-Tool AI Agent for Bangladesh
-### Module 23 · Exam Week-4
 
 An AI agent that routes user queries intelligently across **three SQLite databases** (institutions, hospitals, restaurants) and a **web search tool** using LangChain's ReAct framework.
 
