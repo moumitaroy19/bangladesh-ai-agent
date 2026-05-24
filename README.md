@@ -124,6 +124,3 @@ Store your API keys in **Colab Secrets** (🔑 icon in sidebar).
 - **Pandas** – Data cleaning
 
 ---
-
-## 👤 Author
-Your Name · [GitHub](https://github.com/YOUR_USERNAME)
