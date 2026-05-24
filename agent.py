@@ -123,7 +123,7 @@ class RestaurantsDBTool(BaseTool):
 # ══════════════════════════════════════════════════════════════════════════════
 
 def build_agent() -> AgentExecutor:
-    # LLM (Claude Sonnet via Anthropic – swap to ChatOpenAI if you prefer)
+    # LLM (Claude Sonnet via Anthropic – swap to ChatOpenAI if prefer)
     llm = ChatAnthropic(
         model="claude-sonnet-4-20250514",
         temperature=0,
